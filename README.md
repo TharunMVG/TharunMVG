@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm V G Tharunmadhavan</h1>
-<h3 align="center">Computer Science Engineering Student | Machine Learning and Data Science Enthusiast | 
+<h3 align="center">Computer Science Engineering Student | Machine Learning and Data Science Enthusiast |</h3> 
 
 ---
 
