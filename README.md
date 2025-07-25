@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm V G Tharunmadhavan</h1>
-<h3 align="center">Computer Science Engineering Student | Data Science & AI Enthusiast | 
+<h3 align="center">Computer Science Engineering Student | Machine Learning and Data Science Enthusiast | 
 
 ---
 
 - I'm a **final-year Computer Science Engineering** student at **PES University**
-- Exploring **Machine Learning, Generative AI, NLP**, and **Cybersecurity** through real-world projects and research
-- Passionate about **data-driven decision making**, **intelligent systems**, and **applied ML in finance & security**
+  
+- Exploring **Machine Learning, Generative AI**, and **Data Science** through real-world projects and research
 
 
 ### 📫 Connect With Me
