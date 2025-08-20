@@ -6,7 +6,7 @@
 
 - I'm a **final-year Computer Science Engineering** student at **PES University**
   
-- Exploring **Machine Learning, Generative AI**, and **Data Science** through real-world projects and research
+- Exploring **Machine Learning, Generative AI**, and **Data Science** through projects and research
 
 
 ### 📫 Connect With Me
